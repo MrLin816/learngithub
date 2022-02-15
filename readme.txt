@@ -1,2 +1,2 @@
-Git is a version control system.
-git is a free software
+Git是一个版本控制工具. 然后我修改了文字再status查看状态
+git是一个免费的软件
